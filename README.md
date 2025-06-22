@@ -1,4 +1,4 @@
-# IF687_Natural_Interaction
+# IF687 Natural Interaction
 
 # AI Rock, Paper, Scissors
 
